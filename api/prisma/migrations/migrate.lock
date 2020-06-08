@@ -1,0 +1,4 @@
+# Prisma Migrate lockfile v1
+
+20200607181742-create-table
+20200607192930-image-url-optional
